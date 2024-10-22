@@ -1,0 +1,60 @@
+.headbar{
+    background-color:darkslategrey;
+    color:white;
+    
+}
+
+.logo{
+    padding-left: 5px;
+}
+
+.heading{
+    padding-left: 420px;
+}
+.sidebar{
+    background-color: #333;
+    border-radius: 10px;
+    height: 400px;
+    width:150px;
+    margin: 20px 30px 50px 40px;
+
+    
+}
+.inp{
+    width:500px;
+    background-color: #333;
+    margin-top: 35px;
+    margin-left: 320px;
+    border-radius: 8px;
+}
+.contant{
+    background-color: #333;
+    border: 1px solid black;
+    width:170px;
+    height:100px;
+    margin: 35px 15px 30px 35px;
+   
+    border-radius: 8px;
+}
+ /* .boxes{
+    margin-left: 50px;
+    margin-top: 40px; 
+
+} */
+.databar{
+background-color: #333;
+border: 1px solid black;
+width:745px;
+height:150px;
+margin-left: 350px;
+border-radius: 15px;
+/* margin-bottom:1250px; 
+padding-bottom: 100px; */
+
+}
+.bottombox{
+   position:relative;
+   bottom:240px;
+   right:120px;
+}
+
